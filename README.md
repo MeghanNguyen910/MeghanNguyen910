@@ -1,5 +1,7 @@
 
+- 👋 Hi, I’m Vivian Hien Nguyen
 - :zap: I love math, programming, data science, and books
+- 👀 I’m PhD Candidate in Bioemdical Enigneering 
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
