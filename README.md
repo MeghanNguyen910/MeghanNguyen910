@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeghanNguyen910
+- 👋 Hi, I’m @Vivian Hien Nguyen
 - 👀 I’m interested in out door activities 
 - 🌱 I’m currently learning Bioemdical Enigneering 
 - 💞️ I’m looking to collaborate on my personal Data analytics project for Viet Nam non-profit organization 
